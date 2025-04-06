@@ -132,8 +132,7 @@ header{
     line-height: 61px;
     letter-spacing: 0%;
     text-align: left;
-    display: flex;
-    flex-direction: column;
+
 }
 .hero-content p{
     width: 640px;
@@ -360,7 +359,7 @@ img{
 }
 .story-1 p{
     color: rgb(102, 102, 102);
-    width: 433px;
+    width: 100%;
     font-family: Raleway;
     font-size: 25.34px;
     font-weight: 500;
